@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">TrainYourself</string>
+    <string name="email">Email : </string>
     <string name="pseudo">Pseudo : </string>
     <string name="mot_de_passe">Mot de passe : </string>
     <string name="se_connecter">Se connecter </string>
     <string name="se_souvenir_de_moi">Se souvenir de moi ? </string>
+    <string name="accueil">Accueil </string>
+    <string name="lecture">Lire </string>
 </resources>
