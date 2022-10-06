@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -48,5 +49,15 @@
         android:text="@string/se_connecter"
         android:layout_below="@id/se_souvenir_de_moi_cb"
         />
+
+    <TextView
+        android:id="@+id/carre_icone_tv"
+        android:layout_width="121dp"
+        android:layout_height="119dp"
+        android:layout_below="@id/se_connecter_btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        app:drawableBottomCompat="@drawable/icone_trainyourself" />
+
 
 </RelativeLayout>
