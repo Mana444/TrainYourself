@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Enchainements">
+
+    <TextView
+        android:id="@+id/enchainements_base1"
+        android:layout_width="124dp"
+        android:layout_height="144dp"
+        android:text="@string/enchainements_base1" />
+    <TextView
+        android:id="@+id/enchainements_base2"
+        android:layout_width="144dp"
+        android:layout_height="144dp"
+        android:text="@string/enchainements_base2"
+        />
+    <TextView
+        android:id="@+id/enchainements_base3"
+        android:layout_width="144dp"
+        android:layout_height="144dp"
+        android:text="@string/enchainements_base3"
+        />
+    <TextView
+        android:id="@+id/enchainements_base4"
+        android:layout_width="144dp"
+        android:layout_height="144dp"
+        android:text="@string/enchainements_base4"
+        />
+    <TextView
+        android:id="@+id/enchainements_base5"
+        android:layout_width="144dp"
+        android:layout_height="144dp"
+        android:text="@string/enchainements_base5"
+        />
+    <TextView
+        android:id="@+id/enchainements_base6"
+        android:layout_width="144dp"
+        android:layout_height="144dp"
+        android:text="@string/enchainements_base6"
+        />
+    <TextView
+        android:id="@+id/enchainements_base7"
+        android:layout_width="144dp"
+        android:layout_height="144dp"
+        android:text="@string/enchainements_base7"
+        />
+</GridLayout>
