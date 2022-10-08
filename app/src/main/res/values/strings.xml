@@ -8,6 +8,14 @@
     <string name="accueil">Accueil </string>
     <string name="lecture">Lire</string>
     <string name="test">Test</string>
+    <string name="liste_categorie1">Histoire</string>
+    <string name="liste_categorie2">Coups</string>
+    <string name="liste_categorie3">Déplacements</string>
+    <string name="liste_categorie4">Enchainements</string>
+    <string name="liste_categorie5">Feintes</string>
+    <string name="liste_categorie6">Made In</string>
+    <string name="liste_categorie7">Légendes</string>
+    <string name="liste_categorie8">Annexes</string>
     <string name="enchainements_base1"> JabOpener CrossPunch / 1o . 2P  </string>
     <string name="enchainements_base2"> JabOpener Jabto(Feint/Low/Speed ) CrossPunch / 1o . 1T . 2P  </string>
     <string name="enchainements_base3"> JabOpener Crossto(F/L/S) JabPunch / 1o . 2T . 1P </string>

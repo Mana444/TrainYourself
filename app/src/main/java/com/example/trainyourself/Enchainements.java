@@ -25,3 +25,14 @@ public class Enchainements extends AppCompatActivity {
         });
     }
 }
+
+ /*   Button buttonRead = findViewById(R.id.button_read);
+        buttonRead.setOnClickListener(new  View.OnClickListener(){
+//TODO verif password et Pseudo pour valider le onclick
+public void onClick (View view){
+        Intent intent = new Intent(view.getContext(), Enchainements.class);
+        startActivity(intent);
+        }
+        });
+
+  */
