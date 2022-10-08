@@ -7,6 +7,7 @@
     <string name="se_souvenir_de_moi">Se souvenir de moi ? </string>
     <string name="accueil">Accueil </string>
     <string name="lecture">Lire</string>
+    <string name="test">Test</string>
     <string name="enchainements_base1"> JabOpener CrossPunch / 1o . 2P  </string>
     <string name="enchainements_base2"> JabOpener Jabto(Feint/Low/Speed ) CrossPunch / 1o . 1T . 2P  </string>
     <string name="enchainements_base3"> JabOpener Crossto(F/L/S) JabPunch / 1o . 2T . 1P </string>
@@ -14,6 +15,9 @@
     <string name="enchainements_base5"> JabOpener RetraitCorps JabSpeed CrossPunch / 1o . 5S. 1S . 2P </string>
     <string name="enchainements_base6"> JabOpener CrossSpeed HookHeadPunch RetraitCorps JabRemise/ 1o . 2S . 3P . 5S . 1R </string>
     <string name="enchainements_base7"> UppercutLeftDown UppercutRightDown UppercutLeftHeadto StepBack CrossSmash  / 6o . 8S . 6T . 5SB . 2P </string>
+    <string name="enchainements_base8"> JabSpeedHead CrossSpeedHead JabSpeedHead CrossSpeedHead JabPunchHead / 1S . 2S . 1S . 2S .1p </string>
+    <string name="enchainements_tyson"> HookPunchDownTo ChangeGuard UppercutRightHead  / 4P . 8P </string>
+
     <string name="feinte_base1"> JabFeintHead JabSpeedDown / 1FH . 1SD </string>
     <string name="feinte_base2"> JabFeintDown JabSpeedHead / 1FD . 1SH </string>
     <string name="feinte_base3"> JabFeinteHaute JabSpeedHead / 1FH . 1SH </string>

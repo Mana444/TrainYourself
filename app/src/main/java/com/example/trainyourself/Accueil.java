@@ -19,7 +19,7 @@ public class Accueil extends AppCompatActivity {
         buttonRead.setOnClickListener(new  View.OnClickListener(){
             //TODO verif password et Pseudo pour valider le onclick
             public void onClick (View view){
-                Intent intent = new Intent(view.getContext(), Accueil.class);
+                Intent intent = new Intent(view.getContext(), Enchainements.class);
                 startActivity(intent);
             }
         });
